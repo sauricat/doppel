@@ -14,19 +14,5 @@ app.config.timestamp_*.js
 # dependencies
 /node_modules
 
-# IDEs and editors
-/.idea
-.project
-.classpath
-*.launch
-.settings/
-
-# Temp
-gitignore
-
-# System Files
-.DS_Store
-Thumbs.db
-
-.idea
-.wrangler
+# Nix
+result*
