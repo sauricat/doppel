@@ -29,6 +29,10 @@
     @apply w-5 h-5 inline
   }
 
+  .md-icon-long {
+    @apply w-12 h-4 inline
+  }
+
   .tweet span, .tweet a {
     @apply text-sm md:text-base leading-tight md:leading-tight
   }
