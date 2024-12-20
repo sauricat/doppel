@@ -25,7 +25,7 @@
             };
             installPhase = ''
               pnpm run build
-              cp -r dist/. $out
+              cp -r .output/public $out
             '';
           };
 
