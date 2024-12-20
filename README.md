@@ -1,7 +1,7 @@
 # My Academic Profile Page
 
-This is a fork of LightQuantum's template.
-See also [the original readme](./README-LightQuantum.md).
+This is a fork of [LightQuantum's Profile Page](https://github.com/PhotonQuantum/landingpage).
+See also [the original readme](./README-LightQuantum.md) fetched 2024-12-20.
 
 ## License (Copy)
 
