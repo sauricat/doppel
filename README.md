@@ -8,6 +8,13 @@ See also [the original readme](./README-LightQuantum.md) fetched 2024-12-20.
 + Nixification.
 + Switching to a static-rendered website without server-side.
 
+## Dev
+
++ Environment setup: `nix develop`.
++ Preview: `pnpm run dev`.
++ Build: `nix build` (pnpm deps hash not automatically generated) or `pnpm run build`.
+
+
 ## License (Copy)
 
 All rights reserved for images, documents, slides, PDFs, MDXs, and all files under `public` and `src/assets`.
